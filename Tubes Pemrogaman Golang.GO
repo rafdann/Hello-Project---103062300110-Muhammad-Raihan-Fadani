@@ -23,6 +23,7 @@ type User struct {
 const maxDestinasi = 100
 const maxUsers = 100
 
+// variabel
 var isAdmin bool
 var destinasiList [maxDestinasi]Destinasi
 var destinasiCount int
